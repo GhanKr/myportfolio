@@ -2,7 +2,7 @@ body{
     background-color: red;
 }
 .myheader{
-    background-color: hsl(59, 100%, 53%);
+    background-color: white;
     color: hsl(229, 65%, 36%);
     border-radius: 25px;
     padding-left: 10px;
